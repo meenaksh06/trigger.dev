@@ -86,7 +86,7 @@ export const helloWorld = task({
 
 ## Deployment
 
-Use our SDK to write tasks in your codebase. There's no infrastructure to manage, your tasks automatically scale and connect to our cloud. Or you can always self-host.
+Use our SDK to write tasks in your codebase. There's no infrastructure to manage, your tasks automatically scale and connect to our cloud. Or you can always self host.
 
 ## Environments
 
