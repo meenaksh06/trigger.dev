@@ -48,7 +48,7 @@ Build [AI agents](https://trigger.dev/product/ai-agents) using all the framework
 - **[React hooks](https://trigger.dev/docs/frontend/react-hooks#react-hooks)** - Interact with the Trigger.dev API on your frontend using our React hooks package
 - **[Batch triggering](https://trigger.dev/docs/triggering#tasks-batchtrigger)** - Use batchTrigger() to initiate multiple runs of a task with custom payloads and options
 - **[Structured inputs / outputs](https://trigger.dev/docs/tasks/schemaTask#schematask)** - Define precise data schemas for your tasks with runtime payload validation
-- **[Waits](https://trigger.dev/docs/wait)** - Add waits to your tasks to pause execution for a specified duration
+- **[Waits](https://trigger.dev/docs/wait)** - Add waits to your tasks to pause execution 
 - **[Preview branches](https://trigger.dev/docs/deployment/preview-branches)** - Create isolated environments for testing and development. Integrates with Vercel and git workflows
 - **[Waitpoints](https://trigger.dev/docs/wait-for-token#wait-for-token)** - Add human-in-the-loop judgment at critical decision points without disrupting workflow
 - **[Concurrency & queues](https://trigger.dev/docs/queue-concurrency#concurrency-and-queues)** - Set concurrency rules to manage how multiple tasks execute
