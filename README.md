@@ -36,7 +36,7 @@ Build [AI agents](https://trigger.dev/product/ai-agents) using all the framework
 
 - **Realtime apps & streaming**: Move your background jobs to the foreground by subscribing to runs or streaming AI responses to your app.
 
-- **Observability & monitoring**: Each run has full tracing and logs. Configure error alerts to catch .
+- **Observability & monitoring**: Each run has full tracing and logs. Configure error alerts to catch bug fast.
 
 ## Key features:
 
