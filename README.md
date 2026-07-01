@@ -20,7 +20,7 @@
 
 ## About Trigger.dev
 
-Trigger.dev is the open-source platform for building AI workflows in TypeScript. Long-running tasks with retries, queues, observability, and elastic .
+Trigger.dev is the open-source platform for building AI workflows in TypeScript. Long-running tasks with retries, queues, observability, and elastic scaling.
 
 ## The platform designed for building AI agents
 
