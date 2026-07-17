@@ -2,7 +2,7 @@
 
 ![Trigger.dev logo](https://content.trigger.dev/github-header-banner.jpg)
 
-### Build and deploy fully‑managed AI agents 
+### Build and deploy fully‑managed AI agents and workflows
 
 [Website](https://trigger.dev) | [Docs](https://trigger.dev/docs) | [Issues](https://github.com/triggerdotdev/trigger.dev/issues) | [Feature requests](https://triggerdev.featurebase.app/) | [Public roadmap](https://triggerdev.featurebase.app/roadmap) | [Self-hosting](https://trigger.dev/docs/self-hosting/overview)
 
